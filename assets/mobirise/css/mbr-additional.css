@@ -1565,34 +1565,34 @@ a {
   }
 }
 .cid-tmTahfH5VP {
-  padding-top: 3rem;
-  padding-bottom: 8rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #232323;
 }
 @media (min-width: 992px) {
   .cid-tmTahfH5VP .carousel {
-    min-height: 800px;
+    min-height: 600px;
   }
   .cid-tmTahfH5VP .carousel img {
-    max-height: 800px;
+    max-height: 600px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-tmTahfH5VP .carousel {
-    min-height: 520px;
+    min-height: 390px;
   }
   .cid-tmTahfH5VP .carousel img {
-    max-height: 520px;
+    max-height: 390px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-tmTahfH5VP .carousel {
-    min-height: 440px;
+    min-height: 330px;
   }
   .cid-tmTahfH5VP .carousel img {
-    max-height: 440px;
+    max-height: 330px;
     object-fit: contain;
   }
   .cid-tmTahfH5VP .container .carousel-control {
@@ -1696,28 +1696,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tnhfXXeMSG .carousel {
-    min-height: 800px;
+    min-height: 1000px;
   }
   .cid-tnhfXXeMSG .carousel img {
-    max-height: 800px;
+    max-height: 1000px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-tnhfXXeMSG .carousel {
-    min-height: 520px;
+    min-height: 650px;
   }
   .cid-tnhfXXeMSG .carousel img {
-    max-height: 520px;
+    max-height: 650px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-tnhfXXeMSG .carousel {
-    min-height: 440px;
+    min-height: 550px;
   }
   .cid-tnhfXXeMSG .carousel img {
-    max-height: 440px;
+    max-height: 550px;
     object-fit: contain;
   }
   .cid-tnhfXXeMSG .container .carousel-control {
